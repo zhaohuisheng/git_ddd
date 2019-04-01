@@ -3,5 +3,6 @@ public class Demo {
         System.out.println("这是第一个上传的Demo");
     }
     public void test(){
+System.out.println("这是第一个上传的Demo");
     }
 }
